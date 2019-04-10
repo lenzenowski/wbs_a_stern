@@ -1,0 +1,5 @@
+Gegenstand;x;y
+Startposition;2;2
+Medaillon;4;1
+Medaillon;8;14
+Krone;6;14

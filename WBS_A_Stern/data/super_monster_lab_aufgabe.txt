@@ -1,0 +1,5 @@
+Gegenstand;x;y
+Startposition;300;300
+Medaillon;1000;30
+Medaillon;700;1500
+Krone;50;1050
